@@ -1,7 +1,7 @@
 
 import axios from "axios";
 import { setInterval } from "timers";
-const url = "https://sarhne.sarahah.pro/951383002"; 
+const url = "URL"; 
 const numRequestsPerSecond = 100; 
 
 async function sendRequest() {
