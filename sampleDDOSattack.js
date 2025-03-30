@@ -1,6 +1,6 @@
 import got from "got";
 
-const url = "https://sarhne.sarahah.pro/abdalrhmanfoly"; 
+const url = "URL"; 
 const requests = 5000; 
 const delay = 10; 
 
