@@ -1,6 +1,6 @@
 import axios from "axios";
 const numThreads = 100; 
-const url = "https://sarhne.sarahah.pro/951383002"; 
+const url = "URL"; 
 
 async function sendRequest(i) {
     while (true) {
